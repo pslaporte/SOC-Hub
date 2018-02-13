@@ -10,13 +10,8 @@ level2: "Climate controls"
 level3: "Climate and plant distribution"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+testing text
 
-```{r infobox1, include=FALSE}
-#I've decided to use native R to discuss the syntax and formatting of this example template.  By using include=FALSE in the R chunk definition I have effectively kept it from being included in the final product.  When using this template the template intoduction and all R chunks with "infobox" labels can be removed. 
-```
 #What is the role of biomes in the carbon cycle?
 
 Higher concentrations of carbon in the atmosphere lead to more greenhouse effects and warmer temperatures, but does it really matter how much carbon is stored in biomes? Yes, if properly managed carbon stocks above and below ground have the potential of mitigating the carbon emissions from anthropogenic and natural sources.  In fact, more carbon is stored in the world's biomes than in the atmosphere. Vegetation not only affects the carbon cycle through the processes of photosynthesis and respiration, but also when it dies or burns. Understanding plant distribution throughout the globe and its relationship with climate contributes to a better understanding of the potential-and challenges-of managing biomes and their natural carbon pools (or sinks).  
