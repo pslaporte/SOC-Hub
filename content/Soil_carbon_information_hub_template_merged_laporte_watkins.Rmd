@@ -10,8 +10,6 @@ level2: "Climate controls"
 level3: "Climate and plant distribution"
 ---
 
-testing text
-
 #What is the role of biomes in the carbon cycle?
 
 Higher concentrations of carbon in the atmosphere lead to more greenhouse effects and warmer temperatures, but does it really matter how much carbon is stored in biomes? Yes, if properly managed carbon stocks above and below ground have the potential of mitigating the carbon emissions from anthropogenic and natural sources.  In fact, more carbon is stored in the world's biomes than in the atmosphere. Vegetation not only affects the carbon cycle through the processes of photosynthesis and respiration, but also when it dies or burns. Understanding plant distribution throughout the globe and its relationship with climate contributes to a better understanding of the potential-and challenges-of managing biomes and their natural carbon pools (or sinks).  
@@ -29,7 +27,7 @@ Biomes are very large ecological areas defined by climate and other abiotic fact
 Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105. DOI: [10.1073/pnas.0705414105](http://www.pnas.org_cgi_doi_10.1073_pnas.0705414105)   
 Jobbágy, E. G., & Jackson, R. B. (2000). The vertical distribution of soil organic carbon and its relation to climate and vegetation. Ecological Applications, 10(2), 423–436. https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2. DOI: [10.1890/1051-0761](http://onlinelibrary.wiley.com/doi/10.1890/1051-0761(2000)010%5B0423:TVDOSO%5D2.0.CO;2/abstract)  
 [NASA](https://earthobservatory.nasa.gov/Features/CarbonCycle/page5.php)  
-Schimel et al. (2014). doi: [10.1111/gcb.12822](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12822/abstract)
+Schimel, D., Pavlick, R., Fisher, J. B., Asner, G. P., Saatchi, S., Townsend, P., Miller, C., Frankenberg, C., Cox, P. (2015). Observing terrestrial ecosystems and the carbon cycle from space. Global Change Biology, 21(5), 1762–1776. https://doi.org/10.1111/gcb.12822. doi: [10.1111/gcb.12822](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12822/abstract)
 
 #How does Climate influence Plant Distribution?
 
