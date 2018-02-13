@@ -3,7 +3,7 @@ title: "How do climate and plant distribution influence above and below ground c
 author: "Patricia LaPorte and Genelle Watkins"
 layout: post
 output: word_document
-tags: ["climate","biome","permafrost","climate change","plant distribution","precipitation","temperature"]
+tags: ["climate","biome","permafrost","climate change","plant distribution","precipitation","temperature","mangroves","carbon cycle"]
 category: "controls of vegetation carbon turnover rate"
 level1: "Primary controls on soil carbon development"
 level2: "Climate controls"
@@ -26,8 +26,8 @@ Biomes are very large ecological areas defined by climate and other abiotic fact
 ![Figure 3 - Explore this [NASA](https://earthobservatory.nasa.gov/Experiments/Biome/) image to click through the different biome types.](mission.jpg) 
 
 ##To learn more check these references:  
-Lenton et al. (2008). DOI: [10.1073/pnas.0705414105](http://www.pnas.org_cgi_doi_10.1073_pnas.0705414105)   
-Jobbágy & Jackson (2000). DOI: [10.1890/1051-0761](http://onlinelibrary.wiley.com/doi/10.1890/1051-0761(2000)010%5B0423:TVDOSO%5D2.0.CO;2/abstract)  
+Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105. DOI: [10.1073/pnas.0705414105](http://www.pnas.org_cgi_doi_10.1073_pnas.0705414105)   
+Jobbágy, E. G., & Jackson, R. B. (2000). The vertical distribution of soil organic carbon and its relation to climate and vegetation. Ecological Applications, 10(2), 423–436. https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2. DOI: [10.1890/1051-0761](http://onlinelibrary.wiley.com/doi/10.1890/1051-0761(2000)010%5B0423:TVDOSO%5D2.0.CO;2/abstract)  
 [NASA](https://earthobservatory.nasa.gov/Features/CarbonCycle/page5.php)  
 Schimel et al. (2014). doi: [10.1111/gcb.12822](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12822/abstract)
 
@@ -41,8 +41,8 @@ Climate plays a critical role in controlling ecosystems processes and structure.
 
 ![Figure 6 - Simulation of global scale distribution the C3 grassland based on data from 1990 to 2000. Values represent percentage of land cover. For full figure see [Woodward, Lomans and Kelly (2004)](https://doi.org/10.1007/BF00038700)](Woodward_C3.png)
 
-Similar behavior also applies to other types of vegetation. Trees cover approximately one-third of the Earth’s land area, with forests storing up to 45% of the carbon on land. However, trees can only thrive in certain ranges of temperature and precipitation thresholds specific for each species.  To illustrate, let's consider the tropical forest biome bounded by the Tropics of Cancer and of Capricorn.  With the average annual temperature ranging from 20oC to 25C and the annual precipitation exceeding 2000 mm, tropical forests are characterized by highly diverse flora and the predominance of evergreen broadleaf trees. The inability of these types of trees to survive at very low temperatures explains why they are not found at higher latitudes, while the abundance of the water leads to larger leafs and higher leaf mass. 
-jhgj
+Similar behavior also applies to other types of vegetation. Trees cover approximately one-third of the Earth’s land area, with forests storing up to 45% of the carbon on land. However, trees can only thrive in certain ranges of temperature and precipitation thresholds specific for each species.  To illustrate, let's consider the tropical forest biome bounded by the Tropics of Cancer and of Capricorn.  With the average annual temperature ranging from 20C to 25C and the annual precipitation exceeding 2000 mm, tropical forests are characterized by highly diverse flora and the predominance of evergreen broadleaf trees. The inability of these types of trees to survive at very low temperatures explains why they are not found at higher latitudes, while the abundance of the water leads to larger leafs and higher leaf mass. 
+
 ![Figure 7 - Scatter diagrams representing the distribution of tree cover (percentage of ground cover), mean minimum annual temperature (C), and annual total precipitation (mm). Boundary lines were drawn by the authors to improve visualization. For full figure text see [Woodward, Lomans and Kelly (2004)](https://doi.org/10.1007/BF00038700)](Scatter_graph_trees_Woodward_2004.png)
 
 ![Figure 8 - Simulation of global scale distribution broadleaf trees based on data from 1990 to 2000. Values represent percentage of land cover. For full figure see [Woodward, Lomans and Kelly (2004)](https://doi.org/10.1007/BF00038700)](Woodward_broadleaf.png)
