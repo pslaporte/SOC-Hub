@@ -1,0 +1,71 @@
+/*
+Theme Name:     Agility Child Theme
+Theme URI:      http://agility.sevenspark.com
+Description:    Child theme for Agility
+Author:         Chris Mavricos, SevenSpark
+Author URI:     http://sevenspark.com
+Template:       agility
+Version:        2.0
+*/
+
+/* This stylesheet is unnecessary to include, unless you've edited it */
+/* @import url("../agility/style.css"); */
+
+
+/* Hooray!  You're not editing the parent theme!  Add your custom styles below here */
+
+hr.mini{
+	width:30%;
+	margin:.2em auto .6em auto;
+	display:block;
+}
+.single #main-container h1.entry-title, .single #main-container h2.entry-title, .blog #main-container h2.page-title, .page #main-container h1.page-title, #main-container h1.page-title{
+        font-size: 1.9em;
+   }
+ #searchform {
+	position: absolute;
+	top: 75px;
+	right: -20px;
+	width:250px;
+	}
+.rightlogo {
+	position: absolute;
+	top: 20px;
+	right: -20px;
+}
+body {background-color:#dfe6f2;}
+/*widget for recent posts */
+#brick-1855 { margin-left:-25px; margin-top:-20px;}
+#brick-1855 ul {
+  border-top-width:1px;
+  list-style-position:inside;
+  padding-left:0;
+  padding-top:0;
+}
+
+#brick-1855 ul li {
+  border-bottom-color:#999;
+  border-bottom-style:dotted;
+  border-bottom-width:1px;
+  color:#333;
+  width:275px;
+  font-style:italic;
+  letter-spacing:0;
+  margin-bottom:1em;
+  padding-bottom:1em;
+}
+.single #main-container h1.entry-title,
+.single #main-container h2.entry-title,
+.blog #main-container h2.page-title,
+.page #main-container h1.page-title,
+#main-container h1.page-title,
+#main-container h2.page-title{
+	font-size:1.8em;
+	color:#069;
+	font-weight:normal;	
+}
+ul.tabs li a {
+			padding: 0px 10px;
+			font-size: 13px; }
+			
+h4 {line-height:1.5em !important;}
