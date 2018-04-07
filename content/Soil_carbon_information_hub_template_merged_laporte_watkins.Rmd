@@ -48,7 +48,7 @@ Schimel, D., Pavlick, R., Fisher, J. B., Asner, G. P., Saatchi, S., Townsend, P.
 
 #How does Climate influence Plant Distribution?
 
-Climate plays a critical role in controlling ecosystem processes and structure.. Annual temperature and water availability limit the expansion of vegetation when it exceeds a species lethal threshold for survival (Figure 4).  Deserts are found at different latitudes (Figure 2), but the lack of water prevents the survival of most types of vegetation. Although grasslands are present in a wide range of latitudes and altitudes, dfferent types of grasses respond differently to temperature and precipitation. Some types of grasses prefer warmer and wetter climates characteristic of tropical and Southern hemisphere latitudes, whereas other types prevail in areas with minimum temperatures below 15C. 
+Climate plays a critical role in controlling ecosystem processes and structure.. Annual temperature and water availability limit the expansion of vegetation when it exceeds a species lethal threshold for survival (Figure 4).  Deserts are found at different latitudes (Figure 2), but the lack of water prevents the survival of most types of vegetation. Although grasslands are present in a wide range of latitudes and altitudes, dfferent types of grasses respond differently to temperature and precipitation (Figures 5a and 5b). Some types of grasses prefer warmer and wetter climates characteristic of tropical and Southern hemisphere latitudes, whereas other types prevail in areas with minimum temperatures below 15C. 
 
 ![Figure 4 - The distribution of biomes is affected by annual temperature and precipitation. Tundra occurs in locations with lower temperature and lower precipitation compared to tropical forests. For full figure text see [Forseth (2010)](https://www.nature.com/scitable/knowledge/library/terrestrial-biomes-13236757)](forseth_figure1_ksm.jpg)
 
@@ -58,7 +58,7 @@ Climate plays a critical role in controlling ecosystem processes and structure..
   
 Figures 5a and 5b – When we compare the simulations of the global scale distribution of two different types of grasses (C3 and C4), we observe that they are found in different latitudes or elevation. For example, C4 grassland is found mainly in the tropics, while C3 grassland thrives in areas of high elevation or higher latitude. The color bar under each graph contains values that represent percentage of land cover. Simulations were based on data from 1990 to 2000.
 
-Similar behavior also applies to other types of biomes. Trees cover approximately one-third of the Earth’s land area, with forests storing up to 45% of the carbon on land. However, trees can only thrive in certain ranges of temperature and precipitation thresholds specific for each species. To illustrate, let’s consider the tropical forest biome bounded by the Tropics of Cancer and of Capricorn. With the average annual temperature ranging from 20C to 25C and the annual precipitation exceeding 2000 mm, tropical forests are characterized by highly diverse flora and the predominance of evergreen broadleaf trees. The inability of these types of trees to survive at very low temperatures explains why they are not found at higher latitudes, while the abundance of the water leads to larger leafs and higher leaf mass.
+Similar behavior also applies to other types of biomes. Trees cover approximately one-third of the Earth’s land area, with forests storing up to 45% of the carbon on land. However, trees can only thrive in certain ranges of temperature and precipitation thresholds specific for each species. To illustrate, let’s consider the tropical forest biome bounded by the Tropics of Cancer and of Capricorn. With the average annual temperature ranging from 20C to 25C and the annual precipitation exceeding 2000 mm, tropical forests are characterized by highly diverse flora and the predominance of evergreen broadleaf trees. The inability of these types of trees to survive at very low temperatures explains why they are not found at higher latitudes, while the abundance of the water leads to larger leafs and higher leaf mass (Figure 2).
 
 ##References:  
 
@@ -84,7 +84,7 @@ Although there are different models available and under development to estimate 
 
 ![Figure 7 - The figure above indicates predictions in vegetation spread across the globe, starting with historical data from 1990, and projecting until the year 2100, using the MC1 DVGM Model. Biomes in the legend: ice (IC), tundra and alpine (UA), boreal conifer forest (BC), temperate conifer forest (TC), temperate broadleaf forest (TB), temperate mixed forest (TM), temperate shrubland (TS), temperate grassland (TG), desert (DE), tropical grassland (RG), tropical woodland (RW), tropical deciduous broadleaf forest (RD), tropical evergreen broadleaf forest (RE). From [Gonzalez et al. (2010)](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00558.x/abstract)](MC1_Projections.png)
 
-![Figure 8 - Albedo effect describes the ability of surfaces of absorbing or reflecting solar radiation. While light-coloured surfaces are great at reflecting the sunlight (high albedo), dark-coloured surfaces contribute to the absorption of heat (low albedo). From [Norwegian Polar Institute](http://www.npolar.no/en/facts/albedo-effect.html)](albedo.jpg)
+![Figure 8 - Albedo effect describes the ability of surfaces of absorbing or reflecting solar radiation. While light-coloured (e.g. snow covered) surfaces are great at reflecting the sunlight (high albedo), dark-coloured surfaces contribute to the absorption of heat (low albedo). From [Norwegian Polar Institute](http://www.npolar.no/en/facts/albedo-effect.html)](albedo.jpg)
 
 ##References: 
 
@@ -125,7 +125,7 @@ Donato, Daniel C., et al. “Mangroves among the Most Carbon-Rich Forests in the
 
 #Thawing permafrost increases carbon emissions into the atmosphere
 
-Permafrost soils stay frozen all year round for over two years in a row (Figure 12), and are concentrated  in the Artic, Antartic, and some mountain regions. The carbon in permafrost has been stored and preserved for thousands of years but is now starting to be decomposed as microbes wake up (Figure 15). Permafrost holds almost twice as much carbon as the atmosphere and large amounts of CO2 and CH4 will be released to the atmosphere if global temperatures continue to increase. 
+Permafrost soils stay frozen all year round for over two years in a row (Figure 12), and are concentrated  in the Artic, Antartic, and some mountain regions. The carbon in permafrost has been stored and preserved for thousands of years but is now starting to be decomposed as microbes wake up (Figure 13). Permafrost holds almost twice as much carbon as the atmosphere and large amounts of CO2 and CH4 will be released to the atmosphere if global temperatures continue to increase. 
 
 ![Figure 12 - Ice rich soil (permafrost) near Yellowknife NWT, Canada (Credit P. Morse Aug. 2014) From [Natural Resources Canada](http://www.nrcan.gc.ca/earth-sciences/science/permafrost-ice-snow/permafrost/10990)](ice-rich-pf.jpg)
 
